@@ -1,0 +1,63 @@
+{
+  "templateKey": "home_services",
+  "heroVariant": "dark-cinematic",
+  "serviceLayout": "image-rows",
+  "ctaStyle": "solid",
+  "paletteSeed": 0,
+  "heroSeed": 0,
+  "copySeed": 0,
+  "visualSystem": {
+    "key": "cinematic-image",
+    "label": "Image-Led Cinematic",
+    "dark": false,
+    "cardStyle": "depth",
+    "ctaLayout": "split-image",
+    "selectionReason": "category/brand-tone keyword match ('landscap')"
+  },
+  "motionPreset": {
+    "key": "cinematic-parallax-reveal",
+    "label": "Cinematic Parallax + Image Reveal",
+    "selectionReason": "visual system default (cinematic-image → cinematic-parallax-reveal)",
+    "contentGated": false
+  },
+  "selectionSignals": {
+    "servicesCount": 8,
+    "imagePoolCount": 3,
+    "hasRelevantImagery": true
+  },
+  "resolvedVisualDirection": {
+    "palette_source": "design_direction",
+    "palette_key": "forest-earth",
+    "palette": {
+      "primary": "#2d5a3d",
+      "primaryDark": "#1a3826",
+      "accent": "#b8875a",
+      "textDark": "#1c231d",
+      "textOnPrimary": "#ffffff",
+      "bgLight": "#faf8f3",
+      "bgAlt": "#f0ece2",
+      "border": "#ddd4c4",
+      "radius": "6px",
+      "ctaStyle": "solid",
+      "headingFont": "Fraunces",
+      "bodyFont": "Inter",
+      "googleFonts": "Fraunces:wght@600;700;800|Inter:wght@400;500;600"
+    },
+    "hero_variant": "dark-cinematic",
+    "section_style": "card-heavy",
+    "image_category": "landscaping",
+    "matched_keywords": [
+      "earth"
+    ],
+    "visual_system": "cinematic-image",
+    "visual_system_label": "Image-Led Cinematic",
+    "visual_system_reason": "category/brand-tone keyword match ('landscap')",
+    "motion_preset": "cinematic-parallax-reveal",
+    "motion_preset_label": "Cinematic Parallax + Image Reveal",
+    "motion_preset_reason": "visual system default (cinematic-image → cinematic-parallax-reveal)",
+    "motion_preset_content_gated": false,
+    "services_count": 8,
+    "image_pool_count": 3,
+    "has_relevant_imagery": true
+  }
+}
