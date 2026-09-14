@@ -5,7 +5,7 @@
   "ctaStyle": "solid",
   "paletteSeed": 0,
   "heroSeed": 0,
-  "copySeed": 0,
+  "copySeed": 1,
   "visualSystem": {
     "key": "cinematic-image",
     "label": "Image-Led Cinematic",
